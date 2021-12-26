@@ -1,0 +1,18 @@
+h1:hover {
+	color: hsl(178, 100%, 50%);
+	cursor: pointer;
+}
+.autor-name:hover {
+	color: hsl(178, 100%, 50%);
+	cursor: pointer;
+}
+svg.mysvg:hover {
+    position: absolute;
+    background: hsl(178, 100%, 50%);
+    opacity: 0.4;
+    border-radius: 10px;
+    margin: 6px 6px 6px 9px;
+    padding: 123px;
+    cursor: pointer;
+
+}

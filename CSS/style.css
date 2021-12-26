@@ -1,0 +1,101 @@
+html {
+    overflow-x: hidden;
+  }
+@media only screen and (min-width: 1000px) {
+body {
+	background-color: hsl(217, 54%, 11%);
+	font-family: 'Outfit', sans-serif;
+	font-size: 18px;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	height: 100px;
+	top: 50%;
+
+
+}
+
+/*.first-card {
+    position: absolute;
+    text-align: left;
+    border: solid;
+    width: 327px;
+    left: 333px;
+    border-radius: 10px;
+    height: 510px;
+    top: 14px;
+}*/
+
+.center-image {
+    width: 294px;
+    border-radius: 10px;
+    margin: 9px 9px 0px 9px;
+}
+.mainhw {
+	position: relative;
+	text-align: left;
+	border:none ;
+	width: 313px;
+	top: 183px;
+	left: 43%;
+	border-radius: 10px;
+	box-shadow:20px 20px 100px 5px hsl(216, 50%, 16%);; 
+}
+.mainhw h1 {
+	color: hsl(0, 0%, 100%);
+	font-size:18px;
+	margin: 13px 0 0 18px;
+
+}
+.mainhw p {
+	font-weight: 200;
+	max-width: 1000px;
+    margin: 14px 13px 0 16px;
+
+
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+svg {
+    position: relative;
+    top: 3px;
+}
+.avatar-style {
+	position: relative;
+    border: 1px solid white;
+    width: 21px;
+    top: 5px;
+    border-radius: 50px;
+}
+hr {
+	margin: 14px 16px 0 16px;
+	border:0.1px solid;
+	border-color: hsl(215, 32%, 27%);
+}
+.autor {
+	position: relative;
+    margin: 14px 16px 100px 16px;
+    height: 50px;
+    
+
+}
+.creation-of {
+	color: hsl(215, 51%, 70%);
+	font-weight: 400;
+	margin: 0 0 0 16px;
+
+}
+.autor-name {
+	color:hsl(0, 0%, 100%);
+	font-weight: 300;
+}
+svg.mysvg {
+	position: absolute;
+	opacity: 0;
+	 margin: 6px 6px 6px 9px;
+    padding: 123px;
+}
+
+
+}
